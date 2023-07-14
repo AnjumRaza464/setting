@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/setting.git/static/css/main.47c3b0ba.css",
+    "main.js": "/setting.git/static/js/main.8cb1dc95.js",
+    "static/js/787.83904489.chunk.js": "/setting.git/static/js/787.83904489.chunk.js",
+    "index.html": "/setting.git/index.html",
+    "main.47c3b0ba.css.map": "/setting.git/static/css/main.47c3b0ba.css.map",
+    "main.8cb1dc95.js.map": "/setting.git/static/js/main.8cb1dc95.js.map",
+    "787.83904489.chunk.js.map": "/setting.git/static/js/787.83904489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c3b0ba.css",
+    "static/js/main.8cb1dc95.js"
+  ]
+}
